@@ -140,4 +140,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 **Plotly -** For providing powerful visualization tools.
 
 **Superstore Dataset -** The sales data used in this project.
-## -------------------------------------------THANK YOU-----------------------------------------------
