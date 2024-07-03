@@ -132,3 +132,12 @@ cd C:\\STUDY\\PROGRAMS\\PYTHON\\DMDW_Project (AS PER MINE EXAMPLE)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/KaranKathur06/Python-Dashboard/blob/main/LICENSE) file for details.
+
+## Acknowledgements:
+
+**Streamlit -** For making it easy to create beautiful web applications in Python.
+
+**Plotly -** For providing powerful visualization tools.
+
+**Superstore Dataset -** The sales data used in this project.
+## -------------------------------------------THANK YOU-----------------------------------------------
