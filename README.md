@@ -3,6 +3,11 @@
 
 ![image](https://github.com/KaranKathur06/Python-Dashboard/assets/155360397/317f873c-dc57-4b82-916c-fe42586065a9)
 
+![image](https://github.com/KaranKathur06/Python-Dashboard/assets/155360397/4d239168-56a0-4c7e-a357-069eddaebaaa)
+
+![image](https://github.com/KaranKathur06/Python-Dashboard/assets/155360397/b3c56e3a-a683-4a89-874a-db4ed79228d1)
+
+![image](https://github.com/KaranKathur06/Python-Dashboard/assets/155360397/21f86e39-a8f6-49e3-a7a9-d3181c31bfbc)
 
 
 ## Overview
@@ -28,7 +33,7 @@ Follow these steps to set up and run the Superstore Sales Dashboard locally on y
 
 ### Installation
 
-1. **Clone the Repository:**
+1.**Clone the Repository:**
    ```bash
    git clone https://github.com/KaranKathur06/superstore-sales-dashboard.git
    cd superstore-sales-dashboard
@@ -39,17 +44,19 @@ Follow these steps to set up and run the Superstore Sales Dashboard locally on y
    python -m venv venv
    ```
 
-3.***Activate the Virtual Environment:***
+3.**Activate the Virtual Environment:**
+
   Windows:
-  ```bash
+   ```bash
    venv\Scripts\activate
- ```
+   ```
+
  MacOS/Linux:
  ```bash
   source venv/bin/activate
  ```
 
-4.Install Dependencies:
+4.**Install Dependencies:**
  ``` bash
     pip install -r requirements.txt
  ```
@@ -58,33 +65,48 @@ Follow these steps to set up and run the Superstore Sales Dashboard locally on y
  pip install streamlit pandas plotly
 ```
 
-5.Navigate to the Project Directory(As per you saved):
+5.**Navigate to the Project Directory(As per you saved):**
  ```bash
 cd C:\\STUDY\\PROGRAMS\\PYTHON\\DMDW_Project (AS PER MINE EXAMPLE)
 ```
 
-6.Now run the Streamlit App:
+6.**Now run the Streamlit App:**
 ```bash
  streamlit run dashboard.py
 ```
 
-### Usage
+## Usage
 -> **Date Range Filtering:** Use the date pickers to filter data within the selected start and end dates.
+
 -> **Region Filtering:** Select one or more regions from the sidebar to filter the data accordingly.
+
 -> **Optional State and City Filters:** Further refine your selection by choosing specific states and cities.
+
 -> **View and Download Data:** Use the expanders and download buttons to view and save the filtered data.
+
 -> **Visualize Sales:** Explore various charts and visualizations for in-depth sales analysis.
 
 
-### Project Structure
+## Project Structure
 -> `dashboard.py:` The main script that runs the Streamlit dashboard.
+
 -> `SuperStoreDataSet.csv:` The dataset containing the superstore sales data.
+
 -> `requirements.txt:` A list of Python packages required to run the project.
 
 
 ## Screenshots:
   Dashboard Overview
-  Sales by Category
+  
+  Sales by Category & Region 
+
+  Time Series Analysis
+
+  Hierarchical View Of Sales Using Treemap
+
+  Segment Wise Sales & Category Wise Sales
+
+  Ralationship Between Sales And Profits Using Scatter Plot!!
 
 
 ## Contributing:
@@ -108,5 +130,5 @@ cd C:\\STUDY\\PROGRAMS\\PYTHON\\DMDW_Project (AS PER MINE EXAMPLE)
 ```
 5.Open a pull request.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
