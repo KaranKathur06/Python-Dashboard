@@ -84,8 +84,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 Have any questions? Feel free to reach out via:
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [kathurkaran077@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/karan-kathur/]
 
 ---
 
